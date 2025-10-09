@@ -1,1 +1,2 @@
 # rockpaperscissor
+https://chatgpt.com
